@@ -1,4 +1,4 @@
-# M_FM_eyes
+# Male_Female_Eyes_Classification
 
 This repository contains a dataset of ~13,000 RGB images of human eyes sorted into the \female_eyes and \male_eyes folders. The dataset is open source and taken from Kaggle where it is called "Female and male eyes". See the Kaggle page for more details here [https://www.kaggle.com/datasets/pavelbiz/eyes-rtte?select=maleeyes].
 
